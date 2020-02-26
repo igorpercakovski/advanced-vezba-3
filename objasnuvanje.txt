@@ -1,0 +1,2 @@
+SOAP servisot siguren sum deka go konfigurirav pravilno
+no sepak mi vrakja greska i mislam deka greskata e vo serverot
